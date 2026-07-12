@@ -53,10 +53,6 @@ This project is deployed using Streamlit Community Cloud.
 
 ---
 
-## 📷 Screenshots
-(Add screenshots here after deployment)
-
----
 
 ## 👩‍💻 Author
 **Sandhya Bhardwaj**
